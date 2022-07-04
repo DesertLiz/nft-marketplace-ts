@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Technologies used
 
 - Next.js
+- Typescript
 - Tailwind CSS
 
 ## Getting Started
